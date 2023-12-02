@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/TingSyuanWang/">
+  <a href="https://github.com/vthwang">
     <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&size=24&duration=3000&pause=500&center=true&width=435&lines=Hello%2C+Visitor!+%F0%9F%91%8B;I'm+Vincent+T.H.+Wang;Welcome+to+my+GitHub+%F0%9F%A5%82">
   </a>
 </h1>
@@ -35,4 +35,4 @@
 | <a href="https://github.com/vthwang"><img align="center" src="https://github-stats.vthwang.com/?username=vthwang&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="Vincent's github stats" /></a> | <a href="https://github.com/vthwang"><img align="center" src="https://github-stats.vthwang.com/top-langs/?username=vthwang&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS,Blade,jupyter%20notebook&langs_count=10&hide_border=true" /></a> | 
 | ------------- | ------------- |
 
-[![Vincent's WakaTime stats](https://github-stats.vthwang.com/wakatime?username=vthwang&v=2&layout=compact&langs_count=10)](https://github.com/TingSyuanWang)
+[![Vincent's WakaTime stats](https://github-stats.vthwang.com/wakatime?username=vthwang&v=2&layout=compact&langs_count=10)](https://github.com/vthwang)
