@@ -7,7 +7,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working as the Software Engineer in [ic3.software](https://ic3.software/).
 - 🌱 I’m currently learning design pattern and solving problem on [leetcode](https://leetcode.com/vthwang/).
-- 📫 How to reach me: <a href="mailto:vincent@fishboneapps.com">Chat with me Here</a> / <a href="mailto:vincent@fishboneapps.com">Working Email</a>
+- 📫 How to reach me: <a href="mailto:vthwang.work@gmail.com">Working Email</a>
 - 😄 Interested in Blockchain, Web development.
 
 
