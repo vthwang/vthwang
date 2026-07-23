@@ -1,38 +1,58 @@
-<h1 align="center">
-  <a href="https://github.com/vthwang">
-    <img src="https://readme-typing-svg.demolab.com?font=Young+Serif&size=24&duration=3000&pause=500&center=true&width=435&lines=Hello%2C+Visitor!+%F0%9F%91%8B;I'm+Vincent+T.H.+Wang;Welcome+to+my+GitHub+%F0%9F%A5%82">
-  </a>
-</h1>
+# Building backend systems and the infrastructure behind them.
 
-### Hi there 👋
-- 🔭 I’m currently working as the Software Engineer in [ic3.software](https://ic3.software/).
-- 🌱 I’m currently learning design pattern and solving problem on [leetcode](https://leetcode.com/vthwang/).
-- 📫 How to reach me: <a href="mailto:vthwang.work@gmail.com">Working Email</a>
-- 😄 Interested in Blockchain, Web development.
+Java and Spring Boot are my home base. I also enjoy building with Go/Gin, PHP/Laravel, and Rust.
 
+<p>
+  <img height="42" src="https://cdn.simpleicons.org/openjdk" alt="Java / OpenJDK" title="Java / OpenJDK">
+  &nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/spring" alt="Spring" title="Spring">
+  &nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/go" alt="Go" title="Go">
+  &nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/gin" alt="Gin" title="Gin">
+  &nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/php" alt="PHP" title="PHP">
+  &nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/laravel" alt="Laravel" title="Laravel">
+  &nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/rust" alt="Rust" title="Rust">
+</p>
 
-### Connect with me
+I build distributed systems with messaging, caching, and search infrastructure.
 
-<table>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/vthwang/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361217-c7dd130c-0eae-46b0-9652-42787925d8a0.gif" alt="icon | Github" width="100%" /></a></td>
-      <td><a href="https://www.linkedin.com/in/vthwang/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361105-247123fe-99da-4822-bd22-c659def68552.gif" alt="icon | LinkedIn" width="100%" /></a></td>
-      <td><a href="https://www.facebook.com/vthwang/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361100-1fe2b952-4a79-48ec-8646-58f1f4f9738c.gif" alt="icon | Facebook" width="100%"/></a></td>
-      <td><a href="https://www.instagram.com/vthwang/"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361084-a010cae7-5b98-4d09-a189-03862dc6e86e.gif" alt="icon | Instagram" width="100%"/></a></td>
-      <td><a href="https://twitter.com/vth_wang"><img align="left" src="https://user-images.githubusercontent.com/8935531/161361040-8733e89d-61cd-40c5-b5f1-b02c75896e99.gif" alt="icon | X" width="100%"/></a></td>
-      <td><a href="https://vthwang.com/"><img align="left" src="https://user-images.githubusercontent.com/8935531/169591321-246d43fc-c4d4-4d79-b10a-bc9c34f4c985.gif" alt="icon | WordPress" width="100%"/></a></td>
-    </tr>
-  </tbody>
-</table>
+<p>
+  <img height="42" src="https://cdn.simpleicons.org/apachekafka" alt="Apache Kafka" title="Apache Kafka">
+  &nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/redis" alt="Redis" title="Redis">
+  &nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL" title="PostgreSQL">
+  &nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/elasticstack" alt="Elastic Stack" title="Elastic Stack">
+</p>
 
-<img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=TingSyuanWang&style=flat-square&&label=Profile+Views&color=50A1FF">
+Kubernetes specialist and enthusiast. I enjoy working with Docker, Helm, Terraform, Prometheus, and Grafana—and I have a soft spot for DigitalOcean and Hetzner.
 
----
+<p>
+  <img height="42" src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes" title="Kubernetes">
+  &nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker">
+  &nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/helm" alt="Helm" title="Helm">
+  &nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/terraform" alt="Terraform" title="Terraform">
+  &nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/prometheus" alt="Prometheus" title="Prometheus">
+  &nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/grafana" alt="Grafana" title="Grafana">
+  &nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/digitalocean" alt="DigitalOcean" title="DigitalOcean">
+  &nbsp;
+  <img height="42" src="https://cdn.simpleicons.org/hetzner" alt="Hetzner" title="Hetzner">
+</p>
 
-### Github Analytics
+I care about production reliability, observable failure modes, and safe, repeatable deployments.
 
-| <a href="https://github.com/vthwang"><img align="center" src="https://github-stats.vthwang.com/api?username=vthwang&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" alt="Vincent's github stats" /></a> | <a href="https://github.com/vthwang"><img align="center" src="https://github-stats.vthwang.com/api/top-langs/?username=vthwang&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS,Blade,jupyter%20notebook&langs_count=10&hide_border=true&v=2" /></a> | 
-| ------------- | ------------- |
+### Elsewhere
 
-[![Vincent's WakaTime stats](https://github-stats.vthwang.com/api/wakatime?username=vthwang&v=3&layout=compact&langs_count=10&hide=Other,HTTP%20Request)](https://github.com/vthwang)
+[Explore my work →](https://vthwang.com/)<br>
+[Start a conversation →](mailto:vthwang.work@gmail.com)
