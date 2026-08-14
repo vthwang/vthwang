@@ -23,13 +23,14 @@ I build distributed systems with messaging, caching, and search infrastructure.
   <br clear="left">
 </p>
 
-Kubernetes specialist and enthusiast. I enjoy working with Docker, Helm, Terraform, Prometheus, and Grafana—and I have a soft spot for DigitalOcean and Hetzner.
+Kubernetes specialist and enthusiast. I enjoy working with Docker, Helm, Terraform, Opentofu, Prometheus, and Grafana—and I have a soft spot for DigitalOcean and Hetzner.
 
 <p>
   <img align="left" height="42" src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes" title="Kubernetes">
   <img align="left" height="42" src="https://cdn.simpleicons.org/docker" alt="Docker" title="Docker">
   <img align="left" height="42" src="https://cdn.simpleicons.org/helm" alt="Helm" title="Helm">
   <img align="left" height="42" src="https://cdn.simpleicons.org/terraform" alt="Terraform" title="Terraform">
+  <img align="left" height="42" src="https://cdn.simpleicons.org/opentofu" alt="Opentofu" title="Opentofu">
   <img align="left" height="42" src="https://cdn.simpleicons.org/prometheus" alt="Prometheus" title="Prometheus">
   <img align="left" height="42" src="https://cdn.simpleicons.org/grafana" alt="Grafana" title="Grafana">
   <img align="left" height="42" src="https://cdn.simpleicons.org/digitalocean" alt="DigitalOcean" title="DigitalOcean">
